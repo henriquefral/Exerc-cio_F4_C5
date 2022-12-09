@@ -1,0 +1,14 @@
+header, footer {
+    background-color: #FFE600;
+}
+.profileImage {
+    width: 100px;
+    height: 100px;
+}
+.menuImage{
+    width: 100px;
+    height: 100px;
+}
+.opcoesLink{
+    color:#000000;
+}

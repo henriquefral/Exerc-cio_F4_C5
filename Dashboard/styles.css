@@ -1,0 +1,11 @@
+.cardReceita{
+    background-color: #D9D9D9;
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+}
+.cardsContainer{
+    overflow-x: auto; 
+    white-space: nowrap;
+}
+
